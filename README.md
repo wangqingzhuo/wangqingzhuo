@@ -14,3 +14,5 @@ I'm currently developing my skills in R, Python, Git, and GitHub, and I plan to 
 
 
 You can learn more about [Imperial College London](https://www.imperial.ac.uk/).
+
+Hi, I'm Bowei Chen. You can call me Teresa as well. Nice meeting you ;)
