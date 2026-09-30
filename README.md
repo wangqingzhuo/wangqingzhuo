@@ -13,4 +13,4 @@ I'm currently developing my skills in R, Python, Git, and GitHub, and I plan to 
 - Medical Statistic
 
 
-You can learn more about [Imperial College London](https://www.imperial.ac.uk/).
+You can learn more about [Imperial MSc in Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
