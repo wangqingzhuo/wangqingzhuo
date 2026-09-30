@@ -1,6 +1,6 @@
-# Hi, I'm Qingzhuo Wang 👋
+# Introduction
 
-You can also call my English name **Rose**. I'm currently a postgraduate student in Statistics at Imperial College London. I have a background in statistics, economics, and finance. Nice to meet you~
+👋 Hi, I'm **Qingzhuo Wang**, you can also call my English name **Rose**. I'm currently a postgraduate student in Statistics at Imperial College London. I have a background in `statistics, economics, and finance`. Nice to meet you~
 
 
 I'm currently developing my skills in R, Python, Git, and GitHub, and I plan to use this profile to share coursework, coding projects, and data analysis work.
